@@ -1,2 +1,2 @@
 # Rainfall-Forecast
-We are trying to provide a model that predicts rainfall from the previous day. The model is trained on a dataset containing 145,460 rows (examples) and 23 columns (features). We trained three different models to choose the best one. Before training, we encountered problems that required pre-processing on our data.
+We aim to create a model that predicts rainfall based on data from the previous day. Our dataset comprises 145,460 rows (examples) and 23 columns (features). To select the best model, we trained three different ones. However, before training, we encountered issues that necessitated preprocessing our data.
